@@ -1,4 +1,4 @@
-import React, { useMemo, useState, useEffect } from "react";
+import { useMemo, useState, useEffect } from 'react';
 
 // Python Slides – 50Q Interactive Quiz (React + Tailwind)
 // Topics: Variables, I/O, Functions, Branching, Errors
